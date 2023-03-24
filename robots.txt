@@ -1,5 +1,0 @@
-user-agent: *
-disallow: impressum.html
-disallow: datenschutz.html
-
-sitemap: https://wichtiges.onrender.com/sitemap.xml
